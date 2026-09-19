@@ -238,3 +238,59 @@ Date: 11-09-2026
 
 
 
+\---
+
+
+
+\*\*Date: 19-09-2026\*\*
+
+
+
+\*\*Today's Work:\*\*
+
+
+
+\-> Completed Week 6: Inheritance \& Polymorphism.
+
+
+
+\-> Completed 5 Class Problems and 5 Assignment Problems.
+
+
+
+\-> Practiced single, multilevel, and hierarchical inheritance.
+
+
+
+\-> Implemented method overriding, `super()`, `instanceof`, and runtime polymorphism.
+
+
+
+\-> Organized all 10 programs into `class\_problems` and `assignment\_problems`.
+
+
+
+\-> Committed and pushed all Week 6 programs to `feature/session\_6`.
+
+
+
+\*\*Next Session Plan:\*\*
+
+
+
+\-> Continue with Week 7 topics and practice Java concepts.
+
+
+
+\*\*Issues Faced:\*\*
+
+
+
+\-> Faced duplicate-class errors while reusing parent classes across progressive problems.
+
+
+
+\-> Resolved package and inheritance-related issues while organizing the Week 6 programs.
+
+
+
