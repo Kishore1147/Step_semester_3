@@ -293,4 +293,20 @@ Date: 11-09-2026
 \-> Resolved package and inheritance-related issues while organizing the Week 6 programs.
 
 
+Date: 27-09-2026
+
+Today's Work:
+-> Completed Week 7: Abstraction & Interface.
+-> Completed 5 Class Problems and 5 Assignment Problems.
+-> Practiced abstract classes, abstract methods, interfaces, and implementation.
+-> Implemented abstraction and interface-based programs in Java.
+-> Organized all 10 programs into `class_problems` and `assignment_problems`.
+-> Committed and pushed all Week 7 programs to `feature/session_7`.
+
+Next Session Plan:
+-> Continue with Week 8 topics and practice Java concepts.
+
+Issues Faced:
+-> Faced package and abstraction/interface-related issues while organizing and running the Week 7 programs.
+-> Resolved the issues and successfully completed all Week 7 programs.
 
